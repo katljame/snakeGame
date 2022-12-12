@@ -1,0 +1,1 @@
+this project shows how to create a snake game that keeps track of score and will randomly place oranges throughout the game. 
